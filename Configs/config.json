@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "discord-id": "bot account id",
+    "token": "token here",
+    "db-connection": "database connection string",
+    "db-user": "database user",
+    "db-password": "database password",
+    "prefix": "a.",
+    "console-id": "id of channel to use as console",
+    "server-invite": "https://discord.gg/E97HdBD",
+    "patreon-link": "https://www.patreon.com/aya_komichi",
+    "name": "Ayaya",
+    "description": "K-Konnichiwa, I am a bot made by 小路綾#7541. I was built to make the discord servers more entertaining. I hope I can bring some fun to you."
+  },
+  "owners": ["list of account ids", "of instance owners"],
+  "invites": {
+    "normal": "https://discord.com/api/oauth2/authorize?client_id=329994901230190593&permissions=338775254&scope=bot",
+    "admin": "https://discord.com/api/oauth2/authorize?client_id=329994901230190593&permissions=338775262&scope=bot",
+    "minimal": "https://discord.com/api/oauth2/authorize?client_id=329994901230190593&permissions=70339648&scope=bot"
+  },
+  "status-quotes": [
+    "Hanging out with Yoko.", "You're late!", "Studying.", "Doing my exams.", "Scolding that baka Yoko.",
+    "B-Baka!", "Cooking at home."
+  ],
+  "ping-quotes": [
+    "Ping!", "Pong!", "B-Baka!", "H-Hey...", "It's not like I wanted to say pong or anything!", "Nani?",
+    "Yes, I am here.", "K-Konnichiwa."
+  ]
+}
