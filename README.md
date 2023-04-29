@@ -1,5 +1,3 @@
-# Ayaya
+# Ayaya-Misc
 
-Public repository of my discord bot Ayaya.
-
-This repository contains everything related with the bot except the source code.
+Repository that holds sample configurations and the gifs of the action commands of Ayaya discord bot.
