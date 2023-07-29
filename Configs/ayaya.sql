@@ -1970,7 +1970,8 @@ COPY public.changelogs (version, changes) FROM stdin;
 2.4.13	**2.4.12 -> 2.4.13**\n*Renamed the Upvote command to Vote, upvote will be kept as an alias.
 2.4.14	**2.4.13 -> 2.4.14**\n+Added the Move command to move the bot to another voice channel;\n*When the next track starts, the bot will now send a message to the text channel initially used to make the bot join the voice channel;\n*Fixed bugs causing the bot to leave the voice channel when she shouldn't.
 2.4.15	**2.4.14 -> 2.4.15**\n*Revamped the NP command embed layout and changed the old ascii bar for a new one;\n*Some small optimizations to the code.
-2.4.16	*Now the bot's mention should work as a command prefix;\n*Tweaked some of the moderation commands' code.
+2.4.16	**2.4.15 -> 2.4.16**\n*Now the bot's mention should work as a command prefix;\n*Tweaked some of the moderation commands' code.
+2.4.17	**2.4.16 -> 2.4.17**\n*Fixed a bug that caused the Tsundere command to not respond;\n*Toned down the answer of the cookie command when not properly used.
 \.
 
 
