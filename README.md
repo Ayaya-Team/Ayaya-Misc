@@ -15,11 +15,11 @@ Current issues:
 
 ###### Short FAQ:
 
-Q: Why didn't you just make the bot read the gifs directly from the local file system?
+Q: Why didn't you just make the bot read the gifs directly from the local file system?  
 A: I use urls instead because this way I can include the image inside the embeds of the action commands. It is an aesthetical choice of mine.
 
-Q: What is necessary to use the database dump with another database management system?
+Q: What is necessary to use the database dump with another database management system?  
 A: It depends on what you will use. You should do your research for this one.
 
-Q: Why does the donation url in the config.json not work?
+Q: Why does the donation url in the config.json not work?  
 A: I unpublished my Patreon page after I shut down the public instance. I may remove the url from the configuration template and its usage in the source code in the future.
