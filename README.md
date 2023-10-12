@@ -16,7 +16,7 @@ Current issues:
 ###### Short FAQ:
 
 Q: Why didn't you just make the bot read the gifs directly from the local file system?  
-A: I use urls instead because this way I can include the image inside the embeds of the action commands. It is an aesthetical choice of mine.
+A: At the time I did not figure out how to do that. I don't know yet if I will work on that.
 
 Q: What is necessary to use the database dump with another database management system?  
 A: It depends on what you will use. You should do your research for this one.
