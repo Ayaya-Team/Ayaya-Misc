@@ -5,7 +5,7 @@ You need at least the configurations if you want to run your own instance of the
 
 Under the [Configs](https://github.com/Ayaya-Team/Ayaya-Misc/tree/main/Configs) folder you can find the needed configuration templates for the bot:
 - The config.json file provides the more basic configurations. You must provide the id of the bot account, the token, the database connection url, user and password and a list of ids from users you trust with instance owner permissions. The database url for a local PostgreSQL database should look like `jdbc:postgresql://localhost/db_name`.
-- The ayaya.sql file is a complete example dump of a PostgreSQL database. This can be imported to any PostgreSQL database with UTF-8 encoding. Note that this database is also meant to store all the custom regional indicator emotes.
+- The ayaya.sql file is a complete example dump of a PostgreSQL database. This can be imported to any PostgreSQL database with UTF-8 encoding that is owned by a `ayaya` user. Note that this database is also meant to store all the custom regional indicator emotes.
 
 Under the [Emotes](https://github.com/Ayaya-Team/Ayaya-Misc/tree/main/Emotes) folder you can find all the emotes used by the original instance of the bot. Note that if you want to use them, you need to add them to a server or possibly split them between multiple servers the bot has access to.
 
