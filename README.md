@@ -21,7 +21,7 @@ Q: Can I use the emotes originally used by the public instance of this bot?
 A: Yes, you just need to set them up for your personal use. First add them to a server the bot can access, you might have to split them between multiple servers since there are a lot of emotes. Then write each emote in a text channel in the format `\:EmoteName:` to get their snowflake string. Finally, you can update the sql database for regional indicator emotes or change the strings in the file [Emotes.java](https://github.com/Ayaya-Team/Ayaya-Bot/tree/master/src/main/java/ayaya/core/Emotes.java) for other emotes.
 
 Q: Why didn't you just make the bot read the gifs directly from the local file system?  
-A: At the time I did not figure out how to do that. I don't know yet if I will work on that.
+A: At the time I did not figure out how to do that and I preferred the look of embeds anyway. I don't know if I will work on that option yet.
 
 Q: What is necessary to use the database dump with another database management system?  
 A: It depends on what you will use. You should do your research for this one.
